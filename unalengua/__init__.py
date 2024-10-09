@@ -26,6 +26,9 @@ class IPA:
     lang: str
     spelling: str
 
+    def __str__(self):
+        return self.ipa
+
 def show_languages():
     """
     Show supported languages.
