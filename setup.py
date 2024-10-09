@@ -5,7 +5,7 @@ HERE = pathlib.Path(__file__).parent
 
 setup(
     name='unalengua',
-    version='0.0.1',
+    version='0.0.2',
     url='https://github.com/Jelouh/unalengua',
     license='MIT',
     author='Francisco Griman',
